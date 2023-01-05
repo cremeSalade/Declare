@@ -1,4 +1,4 @@
-/*
+
 import * as ReactDOM from 'react-dom';
 
 function render() {
@@ -6,4 +6,3 @@ function render() {
 }
 
 render();
-*/
